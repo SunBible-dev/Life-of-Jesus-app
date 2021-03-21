@@ -4,7 +4,7 @@
     "productName": "Life of Jesus"
   },
   "name": "life-of-jesus-app",
-  "version": "0.0.1-beta",
+  "version": "0.0.2-beta",
   "description": "Read, learn about and study the life of Jesus.",
   "main": "main.js",
   "homepage": "https://the-sunshining.github.io/SunBible/TheLifeofJesusMinistry/index.html",

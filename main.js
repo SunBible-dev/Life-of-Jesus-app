@@ -17,7 +17,7 @@ app.on('ready', async () => {
         }
     })
 
-    mainWindow.loadURL('https://the-sunshining.github.io/SunBible/TheLifeofJesusMinistry/index.html')
+    mainWindow.loadURL('https://the-sunshining.github.io/SunBible/TheLifeofJesusMinistry/pro-app-iframe.html')
     mainWindow.removeMenu()
 
 
